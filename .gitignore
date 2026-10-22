@@ -1,0 +1,5 @@
+# ----------------------------------------------------
+# General & environment Ignored Files
+# ----------------------------------------------------
+# OS & IDE - System and Editor configuration files
+.vscode/
